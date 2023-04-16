@@ -6,6 +6,5 @@ module.exports = defineConfig({
     }
   },
   transpileDependencies: true,
-  publicPath: '/mc-news-ui/dist',
   filenameHashing: false
 })

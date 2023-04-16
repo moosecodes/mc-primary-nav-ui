@@ -1,6 +1,6 @@
 <template>
   
-  <HelloWorld msg="mc-primary-nav"/>
+  <HelloWorld msg="mc-primary-nav-ui"/>
 </template>
 
 <script>
