@@ -9,9 +9,11 @@
     "serve:standalone": "vue-cli-service serve --mode standalone"
   },
   "dependencies": {
+    "@mdi/font": "^7.2.96",
     "core-js": "^3.8.3",
     "single-spa-vue": "^2.1.0",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vuetify": "^3.1.15"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
